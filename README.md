@@ -1,4 +1,4 @@
-# djangoupload
-This was forked by another repository and modified for HttpPlatformHandler and Azure Web App with deployment cmd for Python 3.6.4 x86 
+# python-django-upload
+Example of using Django to upload files on Azure App Services.
 
-Create a media folder in root
+Uploads fies to media folder in the root directory.
